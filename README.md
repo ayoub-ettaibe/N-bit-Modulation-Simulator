@@ -131,44 +131,6 @@ M = 64
 
 ---
 
-## Screenshots
-
-### Front Panel
-
-- Real-time waveform display
-- QAM constellation visualization
-- Dynamic modulation selection
-
-### Block Diagram
-
-- Formula Node based architecture
-- Nested loop waveform generation
-- Modular signal processing pipeline
-
----
-
-## Technologies Used
-
-- LabVIEW
-- Formula Nodes
-- Waveform Graphs
-- XY Graphs
-
----
-
-## Future Improvements
-
-- AWGN noise channel
-- BER calculation
-- Demodulation
-- FFT spectrum analyzer
-- Eye diagram
-- Gray coding
-- Pulse shaping filters
-- Constellation animation
-
----
-
 ## Author
 
 Ayoub ETTAIBE 
